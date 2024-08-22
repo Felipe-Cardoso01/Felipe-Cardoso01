@@ -1,6 +1,6 @@
 - 👋 Ola, sou @Felipe-Cardoso01
 - 👀 Estou interessado em desenvolvimento
-- 🌱 Atualmente estou aprendendo python e felt
+- 🌱 Atualmente estou aprendendo python e Django
 - 💞️ Procuro colaborar em python
 - 📫 Como entrar em contato comigo fapc00@gmail.com
 - 😄 Pronouns: ...
